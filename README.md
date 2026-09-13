@@ -1,4 +1,4 @@
-# 👾 Hi, I'm Lexi
+# 👾 Hi
 
 **`DevSecOps`**
 
