@@ -1,6 +1,6 @@
-# 👾 Hi
+# OSINT | DIGITAL | CTI
 
-**`DevSecOps`**
+**`Digital Reserch & Cyber Intelligence`**
 
 I'm an developer and content creator building my version of the digital world. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
 
