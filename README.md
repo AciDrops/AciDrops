@@ -13,7 +13,7 @@ I'm an developer and content creator building my version of the digital world. A
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/782d9dcf-9357-4734-bd3e-efc35c1a2b0a" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/3753ac15-f266-4a2f-a5bd-f318032118b4" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/65250cd4-4de8-4eb7-88be-c3bba0f6e156" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/f6bd4f1a-7c73-414f-85cf-0301c27766cb" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <br />
