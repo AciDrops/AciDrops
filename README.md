@@ -8,8 +8,7 @@ I'm an developer and content creator building my version of the digital world. A
 
 ### 🧰 languages and Tools
 
-<img width="512" height="512" alt="VSCode" src="https://github.com/user-attachments/assets/ffdaf1a1-8988-4c28-93f2-7690cee6d39d" />
-" />
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://github.com/user-attachments/assets/ffdaf1a1-8988-4c28-93f2-7690cee6d39d" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
